@@ -1,0 +1,23 @@
+.wrapper {
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+    padding-bottom: 30px;
+    list-style: none;
+}
+
+.btn{
+    width: 200px;
+    height: 50px;
+}
+
+.all {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}

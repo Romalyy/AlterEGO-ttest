@@ -1,0 +1,15 @@
+{
+    "profile": "Profile",
+    "home": "Home",
+    "news": "News",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout from",
+    "or": "Or",
+    "have-acc": "Already have an account?",
+    "sign-in": "Sign In",
+    "delete-btn": "Delete",
+    "load-more": "Load More",
+    "all-news": "This is all the news!",
+    "pass": "Password"
+}

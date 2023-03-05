@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+}
+
+.title {
+    margin: 0;
+    padding: 15px;
+}
+
+.icon {
+    margin-left: 20px;
+}
